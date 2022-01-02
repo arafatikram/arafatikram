@@ -13,7 +13,7 @@ Field of interest: Metaheuristic optimization, Image processing, Machine Learnin
    
   
   
-You can reach me by shooting a email on - arafatibne.ikram[at]gmail.com </p>
+You can reach me by shooting email on - arafatibne.ikram[at]gmail.com </p>
 
 
 <!---
