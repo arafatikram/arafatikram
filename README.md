@@ -1,7 +1,7 @@
 <h4> 👋 Hi, This is @arafatikram </h4>
 
 - Who is Passionatly curious in nature.
-- Who loves music, painting and sunset. 
+- Who loves music, drawings and sunset. 
 - Who loves doing small projects as he enjoys learning and exploring new field. 
 
 Field of interest: Metaheuristic optimization, Image processing, Machine Learning & Deep-Learning 
