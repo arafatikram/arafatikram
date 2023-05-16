@@ -1,4 +1,4 @@
-<h4> 👋 Hi, This is @arafatikram </h4>
+<h4> 👋 Hi, This is Arafat Ibne Ikram (@arafatikram) </h4>
 
 - Who is passionately curious in nature.
 - Who loves music, drawings, and sunset. 
