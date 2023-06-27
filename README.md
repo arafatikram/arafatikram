@@ -8,7 +8,7 @@ Field of interest: Metaheuristic optimization, Image processing, Machine Learnin
 <br> 
  
 ## 🌐 Other Links:
-https://arafatikram.github.io
+<h5>https://arafatikram.github.io  </h5>
 
 <br> 
 You can reach me by shooting an email at - arafatibne.ikram[at]gmail.com </p>
