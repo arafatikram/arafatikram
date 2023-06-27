@@ -7,10 +7,10 @@
 Field of interest: Metaheuristic optimization, Image processing, Machine Learning & Deep-Learning 
 <br> 
  
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Arafatibne.ikram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Arafat-ibne-ikram) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Arafatikram)  
+## 🌐 Other Links:
+![WEBSITE](https://arafatikram.github.io/)
 <br> 
-You can reach me by shooting email on - arafatibne.ikram[at]gmail.com </p>
+You can reach me by shooting an email at - arafatibne.ikram[at]gmail.com </p>
 
 
 # 💻 Tech Stack:
@@ -33,8 +33,11 @@ You can reach me by shooting email on - arafatibne.ikram[at]gmail.com </p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arafatikram&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### ✍️ Today's Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=arafatikram&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Arafatikram&icon=0&color=0)](https://visitcount.itsvg.in)
