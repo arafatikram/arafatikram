@@ -1,10 +1,5 @@
-<h4> 👋 Hi, This is Arafat Ibne Ikram (@arafatikram) </h4>
+Arafat Ibne Ikram (@arafatikram) is a prospective graduate student of Electrical and Electronic Engineering, who is currently working under the supervision of Dr. Md Shafiullah. He is also working as a teaching assistant under Engr. Md. Rashidul Islam at International Islamic University Chittagong. His research includes renewable energy systems, hydrogen energy storage systems, fuel cells, electrolyzers, the meta-heuristic approach to finding optimal parameters, load scheduling, electrical load forecasting, and performance analysis for grid-integrated systems.
 
-- Who is passionately curious in nature.
-- Who loves music, drawings, and sunset. 
-- Who loves doing small projects and enjoys learning and exploring new fields. 
-
-Field of interest: Metaheuristic optimization, Image processing, Machine Learning & Deep-Learning 
 <br> 
  
 ## 🌐 Other Links:
