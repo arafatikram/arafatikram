@@ -2,9 +2,6 @@ Arafat Ibne Ikram ([@arafatikram](https://arafatikram.github.io)) is a prospecti
 
 His recently published work can be found in - 
 [ResearchGate](https://www.researchgate.net/profile/Arafat-Ibne-Ikram), [ORCID](https://orcid.org/0000-0001-8088-8625), [Google Scholar](https://scholar.google.com/citations?hl=en&user=gml3L4MAAAAJ), [IEE Explore](https://ieeexplore.ieee.org/author/37089796139), 
-
-<a href="https://www.google.com" target="_blank">external link</a>
-
 <br>  
 Email at - arafatibne.ikram[at]gmail.com </p>
 
