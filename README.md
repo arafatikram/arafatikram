@@ -1,13 +1,7 @@
-Arafat Ibne Ikram (@arafatikram) is a prospective graduate student of Electrical and Electronic Engineering, who is currently working under the supervision of Dr. Md Shafiullah. He is also working as a teaching assistant under Engr. Md. Rashidul Islam at International Islamic University Chittagong. His research includes renewable energy systems, hydrogen energy storage systems, fuel cells, electrolyzers, the meta-heuristic approach to finding optimal parameters, load scheduling, electrical load forecasting, and performance analysis for grid-integrated systems.
+Arafat Ibne Ikram ([@arafatikram](https://arafatikram.github.io)) is a prospective graduate student of Electrical and Electronic Engineering, who is currently working under the supervision of [Dr. Md Shafiullah](https://scholar.google.com/citations?user=IrQqEgIAAAAJ&hl=en). He is also working as a teaching assistant under [Engr. Md. Rashidul Islam](https://scholar.google.com/citations?user=oalwkycAAAAJ&hl=en) at [International Islamic University Chittagong](https://www.iiuc.ac.bd/eee). His research includes renewable energy systems, hydrogen energy storage systems, fuel cells, electrolyzers, the meta-heuristic approach to finding optimal parameters, load scheduling, electrical load forecasting, and performance analysis for grid-integrated systems. His recently published work can be found in [Google Scholar](https://scholar.google.com/citations?hl=en&user=gml3L4MAAAAJ), [IEE Explore](https://ieeexplore.ieee.org/author/37089796139).
 
-<br> 
- 
-## 🌐 Other Links:
-Web: https://arafatikram.github.io 
-
-<br> 
-You can reach me by shooting an email at - arafatibne.ikram[at]gmail.com </p>
-
+<br>  
+Email at - arafatibne.ikram[at]gmail.com </p>
 
 # 💻 Tech Stack:
 ![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
